@@ -1,0 +1,3 @@
+C:/Users/pwlqr/source/repos/ThreadsAndBinaryFiles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/pwlqr/source/repos/ThreadsAndBinaryFiles/cmake-build-debug/CMakeFiles/ThreadsAndBinaryFiles.dir
+C:/Users/pwlqr/source/repos/ThreadsAndBinaryFiles/cmake-build-debug/CMakeFiles/edit_cache.dir
